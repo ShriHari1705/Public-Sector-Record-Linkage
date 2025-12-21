@@ -1,0 +1,6 @@
+# Ignore local data and checkpoints
+data/*.csv
+data/*.xlsx
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

@@ -1,0 +1,4 @@
+splink==3.9.13
+duckdb
+pandas
+ipywidgets
