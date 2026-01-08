@@ -26,8 +26,9 @@ The framework is designed to sit as a "Read-Only Overlay" within a cloud-native 
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the demo notebook: `notebooks/02_Record_Linkage_Pilot.ipynb`
 
-##Final output preview
-<img width="1006" height="756" alt="Screenshot 2025-12-21 165533" src="https://github.com/user-attachments/assets/509df942-5a87-4681-b6a4-ab1d8b3e1711" />
+## Final output preview
+<img width="806" height="556" alt="Screenshot 2025-12-21 165533" src="https://github.com/user-attachments/assets/509df942-5a87-4681-b6a4-ab1d8b3e1711" />
+
 
 
 
